@@ -1,0 +1,13 @@
+void Admin_Login(int);
+void Create_FlatAccount(int);
+void Delete_Account(int);
+void View_ApplianceStatus(int);
+void Generate_Report(int);
+void FlatOwner_Login(int);
+void FamilyMember_Login(int);
+void Register_Appliance(int,int);
+void Modify_ApplianceControl(int,int);
+void Change_LoginCredentials(int,int);
+void Send_Message(int ,char []);
+char* Receive_Message(int);
+void Add_FamilyMembers(int,int);
